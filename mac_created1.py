@@ -1,7 +1,12 @@
 x = 1
 print(x)
 
-y = ['a', 'b', 'c', 'd']
+y = ['z', 'y', 'x']
 for i in y:
 	print(i)
+
+a = 3
+b = 6
+
+print(b / a)
 
